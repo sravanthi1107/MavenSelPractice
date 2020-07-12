@@ -1,2 +1,16 @@
+pom\framework\pages\LogoutPage.class
+testng\AssertionEx.class
+testng\AlwaysRunMethod.class
+testng\DataProviderTest.class
+testng\ParametersMethod.class
 pom\src\FirstTestClass.class
+pom\framework\pages\LoginPage.class
+Listeners\LoginTest.class
+pom\framework\script\BaseTest.class
+pom\src\FirstProgram3.class
+testng\testngEx1.class
 pom\src\FirstProgram.class
+pom\framework\test\ValidLoginTest.class
+testng\DependsonAnn.class
+pom\framework\pages\BasePage.class
+testng\InvocCountMtd.class
